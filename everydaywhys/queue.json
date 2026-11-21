@@ -10,8 +10,8 @@
    "plan_tarih": "2026-11-21",
    "plan_saat": "13:00",
    "saat_dilimi": "America/New_York",
-   "durum": "bekliyor",
-   "metricool_post_id": null
+   "durum": "zamanlandi",
+   "metricool_post_id": 436723850
   },
   {
    "sira": 2,
@@ -21,8 +21,8 @@
    "plan_tarih": "2026-11-21",
    "plan_saat": "19:00",
    "saat_dilimi": "America/New_York",
-   "durum": "bekliyor",
-   "metricool_post_id": null
+   "durum": "zamanlandi",
+   "metricool_post_id": 436724008
   },
   {
    "sira": 3,
@@ -32,8 +32,8 @@
    "plan_tarih": "2026-11-22",
    "plan_saat": "13:00",
    "saat_dilimi": "America/New_York",
-   "durum": "bekliyor",
-   "metricool_post_id": null
+   "durum": "zamanlandi",
+   "metricool_post_id": 436724096
   },
   {
    "sira": 4,
@@ -43,8 +43,8 @@
    "plan_tarih": "2026-11-22",
    "plan_saat": "19:00",
    "saat_dilimi": "America/New_York",
-   "durum": "bekliyor",
-   "metricool_post_id": null
+   "durum": "zamanlandi",
+   "metricool_post_id": 436724201
   },
   {
    "sira": 5,
@@ -54,8 +54,8 @@
    "plan_tarih": "2026-11-23",
    "plan_saat": "13:00",
    "saat_dilimi": "America/New_York",
-   "durum": "bekliyor",
-   "metricool_post_id": null
+   "durum": "zamanlandi",
+   "metricool_post_id": 436724286
   },
   {
    "sira": 6,
@@ -65,8 +65,8 @@
    "plan_tarih": "2026-11-23",
    "plan_saat": "19:00",
    "saat_dilimi": "America/New_York",
-   "durum": "bekliyor",
-   "metricool_post_id": null
+   "durum": "zamanlandi",
+   "metricool_post_id": 436724419
   },
   {
    "sira": 7,
@@ -76,8 +76,8 @@
    "plan_tarih": "2026-11-24",
    "plan_saat": "13:00",
    "saat_dilimi": "America/New_York",
-   "durum": "bekliyor",
-   "metricool_post_id": null
+   "durum": "zamanlandi",
+   "metricool_post_id": 436724533
   },
   {
    "sira": 8,
@@ -87,8 +87,9 @@
    "plan_tarih": "2026-11-24",
    "plan_saat": "19:00",
    "saat_dilimi": "America/New_York",
-   "durum": "bekliyor",
-   "metricool_post_id": null
+   "durum": "zamanlandi",
+   "metricool_post_id": 436724614
   }
- ]
+ ],
+ "not": "Metricool videoları ve kapakları planlama anında kendi sunucusuna kopyaladı; GitHub'daki dosyalar silindi."
 }
